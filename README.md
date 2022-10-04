@@ -1,1 +1,1 @@
-# hugo-theme-black-dahlia
+# hugo-theme-dahlia
