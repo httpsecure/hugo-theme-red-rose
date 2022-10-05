@@ -1,1 +1,1 @@
-# hugo-theme-dahlia
+# Rose
