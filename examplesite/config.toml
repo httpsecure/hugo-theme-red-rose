@@ -9,3 +9,8 @@ disableHugoGeneratorInject = true
 
 [params]
 ava = "/img/mawar.png"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
