@@ -24,7 +24,7 @@ This theme using bootstrap 5.2
 
 Using local BS for development
 
-For production You can use CDN and delete this line parameters
+For production You can use CDN
 
 and add this inside **head.html**
 ```
