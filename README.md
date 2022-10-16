@@ -11,7 +11,7 @@
  * Flowers images from unsplash
  * SVG icon bootstrap.
  
- [Demo Site later](https://netlify.app/)
+ [Demo Site later]()
 
 ## Features
 
@@ -66,6 +66,6 @@ If you using debian/ubuntu & install hugo from repo it will include **libsass1**
 
 ## License
 
-This theme released under the [MIT License]().
+This theme released under the [MIT License](https://github.com/httpsecure/hugo-theme-red-rose/blob/main/LICENSE).
 
 
