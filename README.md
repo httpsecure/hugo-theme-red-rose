@@ -1,6 +1,6 @@
 ## Red Rose
 
-![kembang](https://raw.githubusercontent.com/httpsecure/hugo-theme-red-rose/main/images/screenshot.png)
+![rose](https://raw.githubusercontent.com/httpsecure/hugo-theme-red-rose/main/images/screenshot.png)
 
 
 ## Demo
