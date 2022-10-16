@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en'
+title = 'Red Rose'
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 18
+disableHugoGeneratorInject = true
+
+[params]
+ava = "/img/mawar.png"

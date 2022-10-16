@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="list">
+   <div class="head-list">
+    <h4>Articles</h4>
+   </div>
+    {{.Content }}
+    <ul class="lists">
+        {{ range .Pages }}
+        <li class="post">
+            <div>
+            <label>
+            <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }} </span> 
+            <a class="text-white" href="{{ .RelPermalink }}">{{.Title}}</a>
+        </label>
+    </div>
+        </li>
+        {{- end -}}
+    </ul>
+</div>
+{{ end }}
