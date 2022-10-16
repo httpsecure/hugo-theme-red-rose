@@ -66,6 +66,6 @@ If you using debian/ubuntu & install hugo from repo it will include **libsass1**
 
 ## License
 
-This theme released under the [MIT License](https://github.com/httpsecure/hugo-theme-red-rose/blob/main/LICENSE) same as bootstrap.
+This theme released under the [MIT License]().
 
 
