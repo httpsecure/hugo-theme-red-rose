@@ -1,5 +1,11 @@
 ## Red Rose
 
+### This theme needs a lot of improvement
+
+visit here for new update
+
+[here](https://github.com/httpsecure/hugo-cat)
+
 ![rose](https://raw.githubusercontent.com/httpsecure/hugo-theme-red-rose/main/images/screenshot.png)
 
 
